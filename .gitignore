@@ -1,2 +1,3 @@
 /venv
 data/0_raw/MLA_100k.jsonlines
+*.pkl
